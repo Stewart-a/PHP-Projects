@@ -1,5 +1,6 @@
 Simple Shopping Cart with discount and shipping costs written in PHP.
 
+Internet access is required for style sheets
 This code has been tested with Apache/2.4.41 (Win64) PHP/7.4.3
 Install the files in you Apache DocumentRoot (defined in your Apache/conf/httpd.conf file)
 
