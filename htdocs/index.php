@@ -1,5 +1,6 @@
 <?php
 // This is the landing page. Displays products from the catalogue. 
+// To update catalogue, change product prices, special offers and shipping costs edit the data/inventory.php file
 session_start();
 include('data/inventory.php'); //include data arrays for catalogue, discounts and shipping. 
 include('templates/header.php');
